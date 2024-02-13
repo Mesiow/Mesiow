@@ -1,7 +1,7 @@
 ### Hi there 👋
 * :computer: I'm interested in homebrew for video game consoles and also occasionally game development
 * :iphone: I also enjoy doing iOS mobile development
-* 🌱 I’m currently learning Playstation Vita homebrew and how to interact with api's in swift
+* 🌱 I’m currently learning Playstation Vita sdk and how to interact with api's in swift
 
 <!--
 **Mesiow/Mesiow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

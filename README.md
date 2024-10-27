@@ -1,6 +1,6 @@
 ### Hi there 👋
-* :computer: I'm interested in homebrew for video game consoles and also occasionally game development
-* :iphone: I also enjoy doing iOS mobile development
+* :iphone: I enjoy creating IPhone apps and learning iOS mobile development
+* :computer: I'm also interested in homebrew for video game consoles and also occasionally game development
 
 <!--
 **Mesiow/Mesiow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
